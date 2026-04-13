@@ -2,7 +2,7 @@
 
 namespace RESTdr.Repo
 {
-    public class DrRepo
+    public class RecordsRepo
     {
         private int nextId = 1;
 
