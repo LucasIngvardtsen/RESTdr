@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|c:\\users\\lucas\\source\\repos\\restdr\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|solutionrelative:repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|c:\\users\\lucas\\source\\repos\\restdr\\repo\\drrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|solutionrelative:repo\\drrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|c:\\users\\lucas\\source\\repos\\restdr\\models\\recordsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|solutionrelative:models\\recordsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|c:\\users\\lucas\\source\\repos\\restdr\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|c:\\users\\lucas\\source\\repos\\restdr\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|solutionrelative:models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|c:\\users\\lucas\\source\\repos\\restdr\\repo\\idrrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496E8F7-B2A4-4F23-9D1B-A59BD9936BB9}|RESTdr.csproj|solutionrelative:repo\\idrrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Repo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Repo\\UserRepo.cs",
+              "RelativeToolTip": "Repo\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:11:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecordsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Models\\RecordsDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\RecordsDbContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Models\\RecordsDbContext.cs",
+              "RelativeToolTip": "Models\\RecordsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:54:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDrRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Repo\\IDrRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IDrRepo.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Repo\\IDrRepo.cs",
+              "RelativeToolTip": "Repo\\IDrRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:48:10.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Repo\\DrRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\DrRepo.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Repo\\DrRepo.cs",
+              "RelativeToolTip": "Repo\\DrRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:47:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:27:52.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "Models\\Record.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\RESTdr\\Models\\Record.cs",
+              "RelativeToolTip": "Models\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:25:43.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

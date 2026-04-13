@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mkhansen981017/Documents/School/3rd Semester/RestTasks/RESTdr/RESTdr.csproj": {}
+    "C:\\Users\\Lucas\\Source\\Repos\\RESTdr\\RESTdr.csproj": {}
   },
   "projects": {
-    "/Users/mkhansen981017/Documents/School/3rd Semester/RestTasks/RESTdr/RESTdr.csproj": {
+    "C:\\Users\\Lucas\\Source\\Repos\\RESTdr\\RESTdr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mkhansen981017/Documents/School/3rd Semester/RestTasks/RESTdr/RESTdr.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Source\\Repos\\RESTdr\\RESTdr.csproj",
         "projectName": "RESTdr",
-        "projectPath": "/Users/mkhansen981017/Documents/School/3rd Semester/RestTasks/RESTdr/RESTdr.csproj",
-        "packagesPath": "/Users/mkhansen981017/.nuget/packages/",
-        "outputPath": "/Users/mkhansen981017/Documents/School/3rd Semester/RestTasks/RESTdr/obj/",
+        "projectPath": "C:\\Users\\Lucas\\Source\\Repos\\RESTdr\\RESTdr.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Source\\Repos\\RESTdr\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/mkhansen981017/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,13 +42,19 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/mkhansen981017/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
