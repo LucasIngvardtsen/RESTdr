@@ -4,7 +4,7 @@ namespace RESTdr.Repo
 {
     public class UserRepo
     {
-        private int nextId = 1;
+        // private int nextId = 1; Redundant as using database
         private readonly RecordsDbContext _context;
 
         public UserRepo(RecordsDbContext context)
@@ -14,7 +14,6 @@ namespace RESTdr.Repo
 
         public User AddUser(User user)
         {
-            user.Id = nextId++;
             _context.Users.Add(user);
             _context.SaveChanges();
             return user;

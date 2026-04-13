@@ -1,6 +1,6 @@
 ﻿namespace RESTdr.Repo
 {
-    public class IDrRepo
+    public class IRecordsRepo
     {
 
     }
